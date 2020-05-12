@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890937699662",
+    "firebase_url": "https://zuvys-e23a1.firebaseio.com",
+    "project_id": "zuvys-e23a1",
+    "storage_bucket": "zuvys-e23a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890937699662:android:0961e9e2a2e9a3c6a6c21f",
+        "android_client_info": {
+          "package_name": "com.example.zuvys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890937699662-4pcqfbpq079b571sdqpk5iuggonull4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zuvys",
+            "certificate_hash": "bc79f2e9b083912e5d66cede2b3324f1cb179278"
+          }
+        },
+        {
+          "client_id": "890937699662-g9ko5c8ujkjv7q86pkqoeil1tn9upp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbR-62ykM5kDVKqKCCXWf74J7uxdb87c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890937699662-g9ko5c8ujkjv7q86pkqoeil1tn9upp1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
